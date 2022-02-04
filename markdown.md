@@ -1,1 +1,1 @@
-![image](https://pixabay.com/fr/photos/coccinelle-insecte-animal-cannabis-6952412/)
+![image alt text](/bug.png)
