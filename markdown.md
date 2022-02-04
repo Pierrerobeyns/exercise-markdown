@@ -1,0 +1,15 @@
+- Guitar brands :
+  - Gibson
+  - Fender
+  - Hagström
+  - Rickenbacker
+- Bass brands :
+  - Ibanez
+  - Epiphone
+  - Sadowsky
+  - G&L
+- Drums Brands :
+  - Ludwig
+  - Pearl
+  - Gretsch
+  - Yamaha
